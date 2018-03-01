@@ -1,2 +1,4 @@
 # gamerpc
-Gamer PC Projekt
+Gamer PC Projekt mit den Kides
+
+
